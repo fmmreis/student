@@ -1,7 +1,7 @@
 package edu.pdx.cs410J.student;
 
 /**
- * Hello world!
+ * Hello world application!
  *
  */
 public class App 
